@@ -1,48 +1,28 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Uso de IAs Generativas e a Câmara Secreta da Inovação
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Olá pessoal, Diana estudante do bootcamp da DIO aqui!
 
 ### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+E aí, pessoal! Bem-vindos ao nosso projeto sobre IAs generativas, onde a magia da tecnologia se encontra com a criatividade humana! Inspirados pelo universo de Harry Potter, exploramos como essas inteligências artificiais podem criar conteúdos tão incríveis quanto feitiços, desde textos e imagens até música e muito mais. Assim como Harry descobriu o mundo da magia, nós estamos descobrindo o vasto potencial das IAs generativas.
 
+Um dos temas quentes do projeto é a discussão sobre o que é "Natural" e "Fake Natty" – ou seja, estamos investigando se dá pra distinguir o que é feito por humanos e o que é criado por IA, e quais são as tretas éticas e práticas por trás disso. Assim como no mundo mágico, onde autenticidade e identidade são essenciais, no nosso projeto, essas questões são fundamentais.
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT
+Leonardo AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei um prompt "AI robots that look like characters from the Harry Potter films" 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![Default_AI_robots_that_look_like_characters_from_the_Harry_Pot_0](https://github.com/dianalves/lab-natty-or-not/assets/88293997/c61846a1-39cb-4322-82cf-083abc209eef)
+![image](https://github.com/dianalves/lab-natty-or-not/assets/88293997/67983b73-8bab-455d-a5ed-2eb4b79d9c5b)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
