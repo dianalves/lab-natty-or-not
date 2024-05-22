@@ -14,14 +14,16 @@ Um dos temas quentes do projeto é a discussão sobre o que é "Natural" e "Fake
 ## 🤖 Tecnologias Utilizadas
 Chat GPT
 Leonardo AI
+PlayHT
 
 ## 🧐 Processo de Criação
-Criei um prompt "AI robots that look like characters from the Harry Potter films" 
-
+Criei um prompt "AI robots that look like characters from the Harry Potter films" para cirar a imagem abaixo cpm Leonardo AI
+E usei o PlayHT pra clonar a voz da Hermione pra fazer uma apresentação da introdução em inglês
+E o chat gpt pra criar a introdução e o tilulo.
+(observação: apenas não conseguir anexar o audio aqui.)
 ## 🚀 Resultados
-![Default_AI_robots_that_look_like_characters_from_the_Harry_Pot_0](https://github.com/dianalves/lab-natty-or-not/assets/88293997/c61846a1-39cb-4322-82cf-083abc209eef)
-![image](https://github.com/dianalves/lab-natty-or-not/assets/88293997/67983b73-8bab-455d-a5ed-2eb4b79d9c5b)
 
+![Default_AI_robots_that_look_like_characters_from_the_Harry_Pot_0](https://github.com/dianalves/lab-natty-or-not/assets/88293997/c61846a1-39cb-4322-82cf-083abc209eef)
 
 
 ## Links Interessantes
